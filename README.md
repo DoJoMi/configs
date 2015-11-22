@@ -1,6 +1,3 @@
-# ks
-kickstart files centos
-
 ```
 after starting virtualbox 
 -->|
